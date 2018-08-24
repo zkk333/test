@@ -1,0 +1,15 @@
+import pad_app.三次校验.threetimescall as f1
+import pad_app.上课.function as f2
+a=f1.curweight()
+user_uuid='8472006b-caa2-4414-8a58-3c4bdb7cc72f'
+_fat_rate=14#假设是称重数据
+_fat_ratelist=[14,10,12,13,13,15]  #称重校验，小小差距小于2
+create_time1=a.create_time_make_(4,10)
+create_time2=a.create_time_make_(2,1)
+create_time3=a.create_time_make_(2,2)#n是天数，m是分钟数create_time_make_(n,m)
+create_time4=a.create_time_make_(1,1)
+create_time5=a.create_time_make_(1,2)
+create_time6=a.create_time_make_(0,3)
+
+_create_time1=[create_time1,create_time2,create_time3,create_time4,create_time5,create_time6]
+a.curweightprocess(user_uuid,_fat_ratelist,_create_time1,_fat_rate)

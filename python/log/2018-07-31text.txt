@@ -1,0 +1,22 @@
+2018-07-31 09:46:03,674-log_mokuai.py-root-INFO-握手神
+2018-07-31 09:46:03,719-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625885373106176, 'height': 0, 'loginNo': '15600905550', 'name': '卢辉宇', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '5a7174ec-59a2-4df0-b602-e7883b4bc8c9', 'weight': 0, 'workYears': 0}
+2018-07-31 09:46:03,825-log_mokuai.py-root-INFO-握手神
+2018-07-31 09:46:03,874-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625885373106176, 'height': 0, 'loginNo': '15600905550', 'name': '卢辉宇', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '5a7174ec-59a2-4df0-b602-e7883b4bc8c9', 'weight': 0, 'workYears': 0}
+2018-07-31 09:55:06,408-log_mokuai.py-root-INFO-857706402.8835449
+2018-07-31 09:55:11,079-log_mokuai.py-root-INFO-握手神
+2018-07-31 09:55:11,438-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625885373106176, 'height': 0, 'loginNo': '15600905550', 'name': '卢辉宇', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '5a7174ec-59a2-4df0-b602-e7883b4bc8c9', 'weight': 0, 'workYears': 0}
+2018-07-31 09:55:11,529-log_mokuai.py-root-INFO-握手神
+2018-07-31 09:55:11,589-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625885373106176, 'height': 0, 'loginNo': '15600905550', 'name': '卢辉宇', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '5a7174ec-59a2-4df0-b602-e7883b4bc8c9', 'weight': 0, 'workYears': 0}
+2018-07-31 15:15:42,715-log_mokuai.py-root-INFO-876942678.9348145
+2018-07-31 15:15:50,831-log_mokuai.py-root-INFO-握手神
+2018-07-31 15:15:51,137-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625885373106176, 'height': 0, 'loginNo': '15600905550', 'name': '卢辉宇', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '5a7174ec-59a2-4df0-b602-e7883b4bc8c9', 'weight': 0, 'workYears': 0}
+2018-07-31 15:15:51,226-log_mokuai.py-root-INFO-握手神
+2018-07-31 15:15:51,268-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625885373106176, 'height': 0, 'loginNo': '15600905550', 'name': '卢辉宇', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '5a7174ec-59a2-4df0-b602-e7883b4bc8c9', 'weight': 0, 'workYears': 0}
+2018-07-31 16:57:19,185-log_mokuai.py-root-INFO-883039149.217041
+2018-07-31 16:58:29,015-log_mokuai.py-root-INFO-883109013.3681641
+2018-07-31 17:06:27,496-log_mokuai.py-root-INFO-883587495.5705566
+2018-07-31 17:07:23,867-log_mokuai.py-root-INFO-883643865.4423828
+2018-07-31 17:07:28,457-log_mokuai.py-root-INFO-握手神
+2018-07-31 17:07:28,734-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625885373106176, 'height': 0, 'loginNo': '15600905550', 'name': '卢辉宇', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '5a7174ec-59a2-4df0-b602-e7883b4bc8c9', 'weight': 0, 'workYears': 0}
+2018-07-31 17:07:28,802-log_mokuai.py-root-INFO-握手神
+2018-07-31 17:07:28,837-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625885373106176, 'height': 0, 'loginNo': '15600905550', 'name': '卢辉宇', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '5a7174ec-59a2-4df0-b602-e7883b4bc8c9', 'weight': 0, 'workYears': 0}

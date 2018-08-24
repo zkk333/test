@@ -1,0 +1,3 @@
+2018-05-14 16:18:34,174 - root - INFO - Start print log
+2018-05-14 16:18:34,174 - root - WARNING - Something maybe fail.
+2018-05-14 16:18:34,174 - root - INFO - Finish

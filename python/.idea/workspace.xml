@@ -1,0 +1,1590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b905d545-dfce-42f5-8e1d-b14139f59ffb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sss11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dddd1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sss2222.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pad_app/协程.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhende.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pad_app/11111.py" afterPath="$PROJECT_DIR$/pad_app/11111.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ssss.py" afterPath="$PROJECT_DIR$/ssss.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sssss.py" afterPath="$PROJECT_DIR$/sssss.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pad_app/上课/function.py" afterPath="$PROJECT_DIR$/pad_app/上课/function.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pad_app/进程.py" afterPath="$PROJECT_DIR$/pad_app/进程.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pad_app/updata1.py" afterPath="$PROJECT_DIR$/pad_app/updata1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/智运/kk_buz.py" afterPath="$PROJECT_DIR$/智运/kk_buz.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/性能/shishou.py" afterPath="$PROJECT_DIR$/性能/shishou.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/智运/多进程.py" afterPath="$PROJECT_DIR$/智运/多进程.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/查询数据/select_data_1.py" afterPath="$PROJECT_DIR$/查询数据/select_data_1.py" />
+    </list>
+    <ignored path="untitled8.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/untitled8$11__1_.coverage" NAME="11 (1) Coverage Results" MODIFIED="1514203009449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/查询数据" />
+    <SUITE FILE_PATH="coverage/untitled8$user_app_login_1.coverage" NAME="user_app_login_1 Coverage Results" MODIFIED="1527755589002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/user_app" />
+    <SUITE FILE_PATH="coverage/untitled8$classid.coverage" NAME="根据classid上传报告 Coverage Results" MODIFIED="1532147748062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/查询数据" />
+    <SUITE FILE_PATH="coverage/python$select_data_1.coverage" NAME="select_data_1 Coverage Results" MODIFIED="1534149307867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/查询数据" />
+    <SUITE FILE_PATH="coverage/untitled8$myproject.coverage" NAME="myproject Coverage Results" MODIFIED="1518071933779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运/我的任务" />
+    <SUITE FILE_PATH="coverage/untitled8$Unittest_baobioa_ri.coverage" NAME="Unittest baobioa_ri Coverage Results" MODIFIED="1526462661147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运/总部报表" />
+    <SUITE FILE_PATH="coverage/untitled8$login_test.coverage" NAME="login_test Coverage Results" MODIFIED="1526457388091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/untitled8$report_private.coverage" NAME="report_private Coverage Results" MODIFIED="1532147507528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/python$dddd1.coverage" NAME="dddd1 Coverage Results" MODIFIED="1533802360130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$login_test__1_.coverage" NAME="login_test (1) Coverage Results" MODIFIED="1516778704197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运" />
+    <SUITE FILE_PATH="coverage/untitled8$beiyong_11.coverage" NAME="beiyong_11 Coverage Results" MODIFIED="1527153678911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运" />
+    <SUITE FILE_PATH="coverage/untitled8$interface.coverage" NAME="interface Coverage Results" MODIFIED="1527737352108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/主要接口" />
+    <SUITE FILE_PATH="coverage/python$sss2222.coverage" NAME="sss2222 Coverage Results" MODIFIED="1534843216035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$log_mokuai.coverage" NAME="log_mokuai Coverage Results" MODIFIED="1526439029707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$trace_ceshi.coverage" NAME="trace_ceshi Coverage Results" MODIFIED="1527075545210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运/student" />
+    <SUITE FILE_PATH="coverage/untitled8$physical_Personal.coverage" NAME="physical_Personal Coverage Results" MODIFIED="1532052932582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/体测" />
+    <SUITE FILE_PATH="coverage/untitled8$11.coverage" NAME="11 Coverage Results" MODIFIED="1514278720045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/查询数据" />
+    <SUITE FILE_PATH="coverage/untitled8$weight.coverage" NAME="weight Coverage Results" MODIFIED="1516433687568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/weight_weighing" />
+    <SUITE FILE_PATH="coverage/untitled8$555.coverage" NAME="555 Coverage Results" MODIFIED="1520579803998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$__1_.coverage" NAME="校验后的前三次数据，一周外第四次称重出现跳变 (1) Coverage Results" MODIFIED="1513823304675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/三次校验/校验后的3次数据，第四次称重" />
+    <SUITE FILE_PATH="coverage/untitled8$kk_buz.coverage" NAME="kk_buz Coverage Results" MODIFIED="1522150958973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_sss2222.coverage" NAME="Unittests in sss2222 Coverage Results" MODIFIED="1534415305520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1532925697883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app" />
+    <SUITE FILE_PATH="coverage/untitled8$_2_.coverage" NAME="前两次称重等差,幅度小于2,第三次也等差 Coverage Results" MODIFIED="1513849478822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/三次校验/称重两次，第三次称重" />
+    <SUITE FILE_PATH="coverage/python$Unittest_log.coverage" NAME="Unittest log Coverage Results" MODIFIED="1534214721651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/untitled8$ddd.coverage" NAME="ddd Coverage Results" MODIFIED="1530845487493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$111.coverage" NAME="111 Coverage Results" MODIFIED="1532685658991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/python$Unittest__delect.coverage" NAME="Unittest _delect Coverage Results" MODIFIED="1534846065374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/untitled8$upreport__.coverage" NAME="upreport(上传报告正式转测试环境) Coverage Results" MODIFIED="1532504955692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/查询数据" />
+    <SUITE FILE_PATH="coverage/untitled8$Unittest_report_test.coverage" NAME="Unittest report_test Coverage Results" MODIFIED="1529647748136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app" />
+    <SUITE FILE_PATH="coverage/untitled8$mmm.coverage" NAME="mmm Coverage Results" MODIFIED="1526453206925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="进程 Coverage Results" MODIFIED="1534747529383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app" />
+    <SUITE FILE_PATH="coverage/untitled8$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1516277420358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分析数据" />
+    <SUITE FILE_PATH="coverage/untitled8$Unittest_B___private.coverage" NAME="Unittest B.__private Coverage Results" MODIFIED="1526626018622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$shishou.coverage" NAME="shishou Coverage Results" MODIFIED="1533276508339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/性能" />
+    <SUITE FILE_PATH="coverage/untitled8$fatie.coverage" NAME="fatie Coverage Results" MODIFIED="1528438849754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/user_app" />
+    <SUITE FILE_PATH="coverage/untitled8$select_data.coverage" NAME="select_data Coverage Results" MODIFIED="1530843686926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/查询数据" />
+    <SUITE FILE_PATH="coverage/untitled8$jixiao.coverage" NAME="jixiao Coverage Results" MODIFIED="1521804560672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运/健康贡献" />
+    <SUITE FILE_PATH="coverage/untitled8$2_2.coverage" NAME="加上本次称重，小小差距大于等于2,大大差距大于等于2 Coverage Results" MODIFIED="1513853101072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/三次校验/称重两次，第三次称重" />
+    <SUITE FILE_PATH="coverage/python$buy_chengwei.coverage" NAME="buy_chengwei Coverage Results" MODIFIED="1532686047009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/user_app" />
+    <SUITE FILE_PATH="coverage/untitled8$deleteclass1.coverage" NAME="deleteclass1 Coverage Results" MODIFIED="1513330443849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/python$sssss.coverage" NAME="sssss Coverage Results" MODIFIED="1534933605848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$_.coverage" NAME="前两次的数据大大_小 Coverage Results" MODIFIED="1531277888910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/三次校验/称重两次，第三次称重(三次校验标准）" />
+    <SUITE FILE_PATH="coverage/untitled8$baobiao1.coverage" NAME="baobiao1 Coverage Results" MODIFIED="1526033701302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运/总部报表" />
+    <SUITE FILE_PATH="coverage/untitled8$Unittest_aa.coverage" NAME="Unittest aa Coverage Results" MODIFIED="1527042443567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$Unittest_mulu.coverage" NAME="Unittest mulu Coverage Results" MODIFIED="1526384482963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$14.coverage" NAME="两次称重有次称重距离本次称重超过14天 Coverage Results" MODIFIED="1531275981198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/三次校验/称重两次，第三次称重(三次校验标准）" />
+    <SUITE FILE_PATH="coverage/python$zhende.coverage" NAME="zhende Coverage Results" MODIFIED="1534834238822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$excle.coverage" NAME="excle Coverage Results" MODIFIED="1521107147497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$Unittest_data1.coverage" NAME="Unittest data1 Coverage Results" MODIFIED="1527753342262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/查询数据" />
+    <SUITE FILE_PATH="coverage/untitled8$login.coverage" NAME="login Coverage Results" MODIFIED="1516764750054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运" />
+    <SUITE FILE_PATH="coverage/untitled8$111__1_.coverage" NAME="111 (1) Coverage Results" MODIFIED="1526437584560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/weight_weighing" />
+    <SUITE FILE_PATH="coverage/untitled8$weight_process.coverage" NAME="weight_process Coverage Results" MODIFIED="1513839330698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/user_app1/user_app" />
+    <SUITE FILE_PATH="coverage/untitled8$add_user_class.coverage" NAME="add_user_class Coverage Results" MODIFIED="1532504937698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/untitled8$Unittest_money_test.coverage" NAME="Unittest money_test Coverage Results" MODIFIED="1526891447979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运/健康贡献" />
+    <SUITE FILE_PATH="coverage/untitled8$Unittest_pad_mysql_clear_classes.coverage" NAME="Unittest pad_mysql.clear_classes Coverage Results" MODIFIED="1528873254254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app11" />
+    <SUITE FILE_PATH="coverage/untitled8$22.coverage" NAME="22 Coverage Results" MODIFIED="1513825068342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/三次校验/称重两次，第三次称重" />
+    <SUITE FILE_PATH="coverage/untitled8$444.coverage" NAME="444 Coverage Results" MODIFIED="1526626272382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$11111.coverage" NAME="11111 Coverage Results" MODIFIED="1533870799697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app" />
+    <SUITE FILE_PATH="coverage/python$ssss.coverage" NAME="ssss Coverage Results" MODIFIED="1534929746596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$2.coverage" NAME="第一次体脂率与最后一次相等，与中间数据差2 Coverage Results" MODIFIED="1513850714973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/三次校验/称重两次，第三次称重" />
+    <SUITE FILE_PATH="coverage/python$_.coverage" NAME="前两次数据大小_小 Coverage Results" MODIFIED="1532683159298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/三次校验/称重两次，第三次称重(三次校验标准）" />
+    <SUITE FILE_PATH="coverage/python$Unittest_cor1.coverage" NAME="Unittest cor1 Coverage Results" MODIFIED="1534397006774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$sss11.coverage" NAME="sss11 Coverage Results" MODIFIED="1534761217189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$sssss.coverage" NAME="sssss Coverage Results" MODIFIED="1532586079519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$deleteclass.coverage" NAME="deleteclass Coverage Results" MODIFIED="1534926075017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/untitled8$aa1_test.coverage" NAME="aa1_test Coverage Results" MODIFIED="1531824116436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app11" />
+    <SUITE FILE_PATH="coverage/python$upreport__.coverage" NAME="upreport(上传报告正式转测试环境) Coverage Results" MODIFIED="1534731857284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/查询数据" />
+    <SUITE FILE_PATH="coverage/untitled8$updata1.coverage" NAME="updata1 Coverage Results" MODIFIED="1523430615768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app" />
+    <SUITE FILE_PATH="coverage/untitled8$yueke1.coverage" NAME="yueke1 Coverage Results" MODIFIED="1528186140398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/user_app" />
+    <SUITE FILE_PATH="coverage/untitled8$1.coverage" NAME="校验后的前三次数据，1月外第四次称重出现跳变 Coverage Results" MODIFIED="1531277927076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/三次校验/校验后的3次数据，第四次称重" />
+    <SUITE FILE_PATH="coverage/untitled8$Unittest___delect.coverage" NAME="Unittest __delect Coverage Results" MODIFIED="1531814050063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/untitled8$.coverage" NAME="进程 Coverage Results" MODIFIED="1531979535546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app" />
+    <SUITE FILE_PATH="coverage/untitled8$ssss.coverage" NAME="ssss Coverage Results" MODIFIED="1532656966083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$Unittest_A_useruuid.coverage" NAME="Unittest A.useruuid Coverage Results" MODIFIED="1530846099329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/untitled8$db_connect.coverage" NAME="db_connect Coverage Results" MODIFIED="1517553259865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/untitled8$money.coverage" NAME="money Coverage Results" MODIFIED="1526891945083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运/健康贡献" />
+    <SUITE FILE_PATH="coverage/untitled8$yuqiresult.coverage" NAME="yuqiresult Coverage Results" MODIFIED="1524022025490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运/student" />
+    <SUITE FILE_PATH="coverage/python$222.coverage" NAME="222 Coverage Results" MODIFIED="1533278867550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/性能" />
+    <SUITE FILE_PATH="coverage/untitled8$111.coverage" NAME="111 Coverage Results" MODIFIED="1531101975408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/untitled8$addclass.coverage" NAME="addclass Coverage Results" MODIFIED="1516703347506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/python$login_test.coverage" NAME="login_test Coverage Results" MODIFIED="1533203903732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/python$Unittest_aa.coverage" NAME="Unittest aa Coverage Results" MODIFIED="1534327698439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$physical_pro.coverage" NAME="physical_pro Coverage Results" MODIFIED="1524475079306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/体测" />
+    <SUITE FILE_PATH="coverage/untitled8$function.coverage" NAME="function Coverage Results" MODIFIED="1531212350784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/untitled8$login_afterclassInfoList.coverage" NAME="login_afterclassInfoList Coverage Results" MODIFIED="1526285948686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/untitled8$excle11.coverage" NAME="excle11 Coverage Results" MODIFIED="1527065367897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$Unittest_fengzhuang_shezhi.coverage" NAME="Unittest fengzhuang.shezhi Coverage Results" MODIFIED="1530607483508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app11" />
+    <SUITE FILE_PATH="coverage/untitled8$tichengyaunshi.coverage" NAME="tichengyaunshi Coverage Results" MODIFIED="1524119311480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运/健康贡献" />
+    <SUITE FILE_PATH="coverage/untitled8$Unittest_classes_id.coverage" NAME="Unittest classes_id Coverage Results" MODIFIED="1526614599510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运" />
+    <SUITE FILE_PATH="coverage/untitled8$yuedulv.coverage" NAME="yuedulv Coverage Results" MODIFIED="1527153250933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运/健康贡献" />
+    <SUITE FILE_PATH="coverage/python$function.coverage" NAME="function Coverage Results" MODIFIED="1533634429723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/untitled8$666.coverage" NAME="666 Coverage Results" MODIFIED="1523960330255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$student_information.coverage" NAME="student information Coverage Results" MODIFIED="1516851250233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运/student" />
+    <SUITE FILE_PATH="coverage/untitled8$analyze.coverage" NAME="analyze Coverage Results" MODIFIED="1529059386306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分析数据" />
+    <SUITE FILE_PATH="coverage/untitled8$upreport.coverage" NAME="upreport Coverage Results" MODIFIED="1517295875512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/查询数据" />
+    <SUITE FILE_PATH="coverage/untitled8$dianyuanzhibiao.coverage" NAME="dianyuanzhibiao Coverage Results" MODIFIED="1526969855535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运/健康贡献" />
+    <SUITE FILE_PATH="coverage/untitled8$student_per.coverage" NAME="student_per Coverage Results" MODIFIED="1527061450100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运/student" />
+    <SUITE FILE_PATH="coverage/untitled8$select_data_1.coverage" NAME="select_data_1 Coverage Results" MODIFIED="1516012726760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/查询数据" />
+    <SUITE FILE_PATH="coverage/untitled8$ceshi.coverage" NAME="ceshi Coverage Results" MODIFIED="1530524315096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app11" />
+    <SUITE FILE_PATH="coverage/untitled8$weightphone_main.coverage" NAME="weightphone_main Coverage Results" MODIFIED="1519635096189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/user_app1/user_app" />
+    <SUITE FILE_PATH="coverage/untitled8$youjian.coverage" NAME="youjian Coverage Results" MODIFIED="1518157749392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/smpt" />
+    <SUITE FILE_PATH="coverage/untitled8$baobioa.coverage" NAME="baobioa Coverage Results" MODIFIED="1527757277021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运/总部报表" />
+    <SUITE FILE_PATH="coverage/untitled8$11111.coverage" NAME="11111 Coverage Results" MODIFIED="1526383270920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled8$kk_storefront_sql.coverage" NAME="kk_storefront_sql Coverage Results" MODIFIED="1525661525153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运" />
+    <SUITE FILE_PATH="coverage/untitled8$Unittest_add_course.coverage" NAME="Unittest add_course Coverage Results" MODIFIED="1530866973747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+    <SUITE FILE_PATH="coverage/untitled8$mendainjiankang.coverage" NAME="mendainjiankang Coverage Results" MODIFIED="1527242186884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/智运/健康贡献" />
+    <SUITE FILE_PATH="coverage/untitled8$buy_course.coverage" NAME="buy_course Coverage Results" MODIFIED="1528699605355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/user_app" />
+    <SUITE FILE_PATH="coverage/untitled8$deleteclass.coverage" NAME="deleteclass Coverage Results" MODIFIED="1532500096542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pad_app/上课" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\Administrator\PycharmProjects\untitled8\exportToHTML" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled8" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="sss11.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sss11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1064">
+              <caret line="87" column="17" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sssss.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sssss.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5814">
+              <caret line="307" column="81" selection-start-line="307" selection-start-column="81" selection-end-line="307" selection-end-column="81" />
+              <folding>
+                <element signature="e#1298#1312#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shishou.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/性能/shishou.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pad_app/上课/function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13167">
+              <caret line="704" column="33" selection-start-line="704" selection-start-column="33" selection-end-line="704" selection-end-column="33" />
+              <folding>
+                <marker date="1534925612882" expanded="true" signature="1015:1059" placeholder="SELECT cours... classes" />
+                <marker date="1534925612882" expanded="true" signature="1188:1201" placeholder="SELECT * FRO... user" />
+                <marker date="1534925612882" expanded="true" signature="1318:1361" placeholder="SELECT subje... classes" />
+                <marker date="1534925612882" expanded="true" signature="1498:1549" placeholder="SELECT tel,p... coach" />
+                <marker date="1534925612882" expanded="true" signature="1676:1738" placeholder="SELECT count... user_classes_checkin" />
+                <marker date="1534925612882" expanded="true" signature="1928:1965" placeholder="SELECT gym_i... coach" />
+                <marker date="1534925612882" expanded="true" signature="2197:2250" placeholder="select id fr... gym" />
+                <marker date="1534925612882" expanded="true" signature="2392:2432" placeholder="select uuid user" />
+                <marker date="1534925612882" expanded="true" signature="2639:2677" placeholder="SELECT id FR... subject" />
+                <marker date="1534925612882" expanded="true" signature="2912:2941" placeholder="select max(i... classes" />
+                <marker date="1534925612882" expanded="true" signature="4132:4165" placeholder="select id fr... coach" />
+                <marker date="1534925612882" expanded="true" signature="4340:4397" placeholder="select type user_personal_subject" />
+                <marker date="1534925612882" expanded="true" signature="4589:4654" placeholder="select circl... user_personal_subject" />
+                <marker date="1534925612882" expanded="true" signature="4838:4875" placeholder="select gym_i... coach" />
+                <marker date="1534925612882" expanded="true" signature="5054:5082" placeholder="select max(i... orders" />
+                <marker date="1534925612882" expanded="true" signature="5220:5254" placeholder="select max(i... user_subject" />
+                <marker date="1534925612882" expanded="true" signature="5908:5997" placeholder="select uuid user_subject" />
+                <marker date="1534925612882" expanded="true" signature="9471:9899" placeholder="insert into orders... " />
+                <marker date="1534925612882" expanded="true" signature="10239:10629" placeholder="insert into user_subject... " />
+                <marker date="1534925612882" expanded="true" signature="11748:12176" placeholder="insert into orders... " />
+                <marker date="1534925612882" expanded="true" signature="12472:12623" placeholder="insert into `user_coins`... " />
+                <marker date="1534925612882" expanded="true" signature="12754:12900" placeholder="insert into `user_coins_consume_log`... " />
+                <marker date="1534925612882" expanded="true" signature="13653:13884" placeholder="INSERT INTO classes... " />
+                <marker date="1534925612882" expanded="true" signature="14415:14449" placeholder="select max(i... user_classes" />
+                <marker date="1534925612882" expanded="true" signature="14663:14767" placeholder="update user_... " />
+                <marker date="1534925612882" expanded="true" signature="15182:15397" placeholder="insert into user_classes... " />
+                <marker date="1534925612882" expanded="true" signature="15738:15780" placeholder="select max(i... user_classes_checkin" />
+                <marker date="1534925612882" expanded="true" signature="16000:16121" placeholder="insert into user_classes_checkin... " />
+                <marker date="1534925612882" expanded="true" signature="16862:17093" placeholder="INSERT INTO classes... " />
+                <marker date="1534925612882" expanded="true" signature="17532:17566" placeholder="select max(i... user_classes" />
+                <marker date="1534925612882" expanded="true" signature="18757:18805" placeholder="select use_t... user_subject" />
+                <marker date="1534925612882" expanded="true" signature="18955:19170" placeholder="insert into user_classes... " />
+                <marker date="1534925612882" expanded="true" signature="19435:19518" placeholder="update user_... " />
+                <marker date="1534925612882" expanded="true" signature="19803:19845" placeholder="select max(i... user_classes_checkin" />
+                <marker date="1534925612882" expanded="true" signature="20102:20223" placeholder="insert into user_classes_checkin... " />
+                <marker date="1534925612882" expanded="true" signature="21085:21316" placeholder="INSERT INTO classes... " />
+                <marker date="1534925612882" expanded="true" signature="21745:21976" placeholder="INSERT INTO classes... " />
+                <marker date="1534925612882" expanded="true" signature="22785:22819" placeholder="select max(i... user_classes" />
+                <marker date="1534925612882" expanded="true" signature="24010:24058" placeholder="select use_t... user_subject" />
+                <marker date="1534925612882" expanded="true" signature="24208:24423" placeholder="insert into user_classes... " />
+                <marker date="1534925612882" expanded="true" signature="24688:24771" placeholder="update user_... " />
+                <marker date="1534925612882" expanded="true" signature="25034:25076" placeholder="select max(i... user_classes_checkin" />
+                <marker date="1534925612882" expanded="true" signature="25333:25454" placeholder="insert into user_classes_checkin... " />
+                <marker date="1534925612882" expanded="true" signature="26459:26690" placeholder="INSERT INTO classes" />
+                <marker date="1534925612882" expanded="true" signature="28610:28819" placeholder="insert into user_classes" />
+                <marker date="1534925612882" expanded="true" signature="29935:30051" placeholder="insert into user_classes_checkin" />
+                <marker date="1534925612882" expanded="true" signature="30381:30476" placeholder="select id fr... classes" />
+                <marker date="1534925612882" expanded="true" signature="30961:31088" placeholder="select id fr... classes" />
+                <marker date="1534925612882" expanded="true" signature="31299:31412" placeholder="select class... user_classes" />
+                <marker date="1534925612882" expanded="true" signature="31596:31627" placeholder="delete from " />
+                <marker date="1534925612882" expanded="true" signature="31677:31721" placeholder="delete from " />
+                <marker date="1534925612882" expanded="true" signature="31771:31823" placeholder="delete from " />
+                <marker date="1534925612882" expanded="true" signature="31871:31916" placeholder="delete from " />
+                <marker date="1534925612882" expanded="true" signature="31961:32004" placeholder="delete from " />
+                <marker date="1534925612882" expanded="true" signature="32052:32100" placeholder="delete from " />
+                <marker date="1534925612882" expanded="true" signature="32146:32196" placeholder="delete from " />
+                <marker date="1534925612882" expanded="true" signature="32295:32317" placeholder="select id fr... classes" />
+                <marker date="1534925612882" expanded="true" signature="33383:33422" placeholder="select max(i... user_daily_weight" />
+                <marker date="1534925612882" expanded="true" signature="33853:34168" placeholder="insert into user_daily_weight... " />
+                <marker date="1534925612882" expanded="true" signature="34580:34894" placeholder="insert into user_daily_weight... " />
+                <marker date="1534925612882" expanded="true" signature="35207:35256" placeholder="delete from " />
+                <marker date="1534925612882" expanded="true" signature="35750:35868" placeholder="select max(i... user_daily_weight" />
+                <marker date="1534925612882" expanded="true" signature="36068:36119" placeholder="select user_... user_daily_weight" />
+                <marker date="1534925612882" expanded="true" signature="36720:36746" placeholder="select user_... user" />
+                <marker date="1534925612882" expanded="true" signature="36873:36897" placeholder="select max(i... user" />
+                <marker date="1534925612882" expanded="true" signature="37189:37220" placeholder="select max(u... user" />
+                <marker date="1534925612882" expanded="true" signature="37776:37808" placeholder="select max(i... user_account" />
+                <marker date="1534925612882" expanded="true" signature="37992:38013" placeholder="select name user" />
+                <marker date="1534925612882" expanded="true" signature="38133:38161" placeholder="select uid f... user_account" />
+                <marker date="1534925612882" expanded="true" signature="39259:40023" placeholder="insert into user... " />
+                <marker date="1534925612882" expanded="true" signature="41969:42127" placeholder="insert into `user_coupon`... " />
+                <marker date="1534925612882" expanded="true" signature="42633:42890" placeholder="insert into `coupon`... " />
+                <marker date="1534925612882" expanded="true" signature="44631:44984" placeholder="insert into user_subject... " />
+                <marker date="1534925612882" expanded="true" signature="46508:47274" placeholder="insert into user... " />
+                <marker date="1534925612882" expanded="true" signature="48250:48415" placeholder="insert into `user_share_recommend`... " />
+                <marker date="1534925612882" expanded="true" signature="48927:48988" placeholder="delete from " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sss2222.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sss2222.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6555">
+              <caret line="373" column="36" selection-start-line="373" selection-start-column="36" selection-end-line="373" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="select_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/查询数据/select_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="42" column="66" selection-start-line="42" selection-start-column="66" selection-end-line="42" selection-end-column="66" />
+              <folding>
+                <marker date="1534914407865" expanded="true" signature="1288:1347" placeholder="select data_... user_class_data" />
+                <marker date="1534914407865" expanded="true" signature="1777:1812" placeholder="select name user" />
+                <marker date="1534914407865" expanded="true" signature="1989:2042" placeholder="select id fr... subject_show" />
+                <marker date="1534914407865" expanded="true" signature="2222:2319" placeholder="select uuid user_subject" />
+                <marker date="1534914407865" expanded="true" signature="2472:2508" placeholder="select id fr... gym" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-08-22text.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/2018-08-22text.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="67241">
+              <caret line="3539" column="84" selection-start-line="3528" selection-start-column="54" selection-end-line="3539" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhende.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zhende.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="699">
+              <caret line="61" column="31" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ssss.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssss.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2223">
+              <caret line="120" column="31" selection-start-line="120" selection-start-column="31" selection-end-line="120" selection-end-column="31" />
+              <folding>
+                <element signature="e#1910#1921#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deleteclass.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pad_app/上课/deleteclass.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="76" selection-start-line="29" selection-start-column="76" selection-end-line="29" selection-end-column="95" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pad_app/三次校验/称重两次，第三次称重(三次校验标准）/前两次的数据大大_小.py" />
+        <option value="$PROJECT_DIR$/pad_app/三次校验/校验后的3次数据，第四次称重/校验后的前三次数据，一周外一月内第四次称重出现跳变.py" />
+        <option value="$PROJECT_DIR$/pad_app/三次校验/校验后的3次数据，第四次称重/校验后的前三次数据，一周内第四次称重出现跳变.py" />
+        <option value="$PROJECT_DIR$/pad_app/weight_weighing/weight.py" />
+        <option value="$PROJECT_DIR$/pad_app/三次校验/一天内多次称重校验/一天内称重三次.py" />
+        <option value="$PROJECT_DIR$/app11/is_exist.py" />
+        <option value="github.com/wsyu/EasyTest.git" />
+        <option value="$PROJECT_DIR$/app11/aa1_test.py" />
+        <option value="$PROJECT_DIR$/pad_app/上课/report_private.py" />
+        <option value="$PROJECT_DIR$/查询数据/根据classid上传报告.py" />
+        <option value="$PROJECT_DIR$/pad_app/三次校验/threetimescall.py" />
+        <option value="$PROJECT_DIR$/pad_app/三次校验/称重两次，第三次称重(三次校验标准）/前两次数据大小_小.py" />
+        <option value="$PROJECT_DIR$/pad_app/上课/111.py" />
+        <option value="$PROJECT_DIR$/user_app/buy_chengwei.py" />
+        <option value="$PROJECT_DIR$/分析数据/__init__.py" />
+        <option value="$PROJECT_DIR$/pad_app/__init__.py" />
+        <option value="$PROJECT_DIR$/pad_app/上课/login_test.py" />
+        <option value="$PROJECT_DIR$/log/2018-07-31text.txt" />
+        <option value="$PROJECT_DIR$/pad_app/主要接口/interface.py" />
+        <option value="$PROJECT_DIR$/性能/222.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pymysql/__init__.py" />
+        <option value="$PROJECT_DIR$/性能/shishou.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pymysql/connections.py" />
+        <option value="$PROJECT_DIR$/pad_app/体测/协程.py" />
+        <option value="$PROJECT_DIR$/1533784295041-9.html" />
+        <option value="$PROJECT_DIR$/智运/多进程.py" />
+        <option value="$PROJECT_DIR$/dddd1.py" />
+        <option value="$PROJECT_DIR$/pad_app/11111.py" />
+        <option value="$PROJECT_DIR$/pad_app/上课/login.py" />
+        <option value="$PROJECT_DIR$/pad_app/协程.py" />
+        <option value="$PROJECT_DIR$/查询数据/upreport(上传报告正式转测试环境).py" />
+        <option value="$PROJECT_DIR$/pad_app/进程.py" />
+        <option value="$PROJECT_DIR$/pad_app/updata1.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/multiprocessing/pool.py" />
+        <option value="$PROJECT_DIR$/查询数据/select_data_1.py" />
+        <option value="$PROJECT_DIR$/zhende.py" />
+        <option value="$PROJECT_DIR$/aiohttp.py" />
+        <option value="$PROJECT_DIR$/ceshi.py" />
+        <option value="$PROJECT_DIR$/aiohttp111.py" />
+        <option value="$PROJECT_DIR$/sss11.py" />
+        <option value="$PROJECT_DIR$/sss2222.py" />
+        <option value="$PROJECT_DIR$/pad_app/上课/deleteclass.py" />
+        <option value="$PROJECT_DIR$/查询数据/select_data.py" />
+        <option value="$PROJECT_DIR$/mmm.py" />
+        <option value="$PROJECT_DIR$/log_mokuai.py" />
+        <option value="$PROJECT_DIR$/pad_app/上课/add_user_class.py" />
+        <option value="$PROJECT_DIR$/智运/kk_buz.py" />
+        <option value="$PROJECT_DIR$/pad_app/上课/function.py" />
+        <option value="$PROJECT_DIR$/log/2018-08-22text.txt" />
+        <option value="$PROJECT_DIR$/ssss.py" />
+        <option value="$PROJECT_DIR$/sssss.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="查询数据" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="智运" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="智运" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="我的任务" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="智运" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="总部报表" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="智运" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="店员指标排名" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="智运" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="健康贡献" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="智运" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="student" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="性能" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pad_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pad_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="上课" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="log" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/automatedTests_of_coachPadApp" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="D:\appium\Appium\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/wsyu/EasyTest.git" />
+      <recent name="https://github.com/Louis-me/appiumn_auto.git" />
+      <recent name="http://localhost:3000/luhuiyu/Test_Platform.git" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\untitled8" />
+      <recent name="C:\Users\Administrator\PycharmProjects\untitled8\pad_app\上课" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.sssss">
+    <configuration default="false" name="sss2222" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled8" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sss2222.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sssss" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled8" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sssss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest _delect" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pad_app/上课" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled8" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pad_app/上课/deleteclass.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="_delect" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="deleteclass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pad_app/上课" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled8" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pad_app/上课/deleteclass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ssss" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled8" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ssss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled8" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled8" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled8" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled8" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="untitled8" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled8" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled8" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled8" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled8" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled8" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.sss2222" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sssss" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest _delect" />
+      <item index="3" class="java.lang.String" itemvalue="Python.deleteclass" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ssss" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.sssss" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ssss" />
+        <item index="2" class="java.lang.String" itemvalue="Python.deleteclass" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest _delect" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sss2222" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\svn1\python" />
+          <option name="myCopyRoot" value="D:\svn1\python" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\svn1\python" />
+          <option name="myCopyRoot" value="D:\svn1\python" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b905d545-dfce-42f5-8e1d-b14139f59ffb" name="Default" comment="" />
+      <created>1513222369553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513222369553</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittest__delect - 2018.08.21 at 18h 26m 08s.xml">
+      <configuration name="Unittest _delect" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_cor1 - 2018.08.16 at 13h 23m 37s.xml">
+      <configuration name="Unittest cor1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_money_test - 2018.05.21 at 16h 30m 54s.xml">
+      <configuration name="Unittest money_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_mulu - 2018.05.15 at 19h 27m 21s.xml">
+      <configuration name="Unittest mulu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_mulu - 2018.05.15 at 19h 27m 24s.xml">
+      <configuration name="Unittest mulu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_mulu - 2018.05.15 at 19h 27m 38s.xml">
+      <configuration name="Unittest mulu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_mulu - 2018.05.15 at 19h 40m 13s.xml">
+      <configuration name="Unittest mulu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_mulu - 2018.05.15 at 19h 41m 23s.xml">
+      <configuration name="Unittest mulu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_pad_mysql_clear_classes - 2018.06.13 at 15h 00m 56s.xml">
+      <configuration name="Unittest pad_mysql.clear_classes" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_sss2222 - 2018.08.16 at 18h 28m 27s.xml">
+      <configuration name="Unittests in sss2222" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.249375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5169713" sideWeight="0.5025" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52088773" sideWeight="0.4975" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32767624" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39817232" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/查询数据/upreport(上传报告正式转测试环境).py</url>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/pad_app/进程.py</url>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="49" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/智运/多进程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="71" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/concurrent/futures/thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="105" column="21" selection-start-line="105" selection-start-column="21" selection-end-line="105" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/multiprocessing/queues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4313">
+          <caret line="240" column="0" selection-start-line="240" selection-start-column="0" selection-end-line="240" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/multiprocessing/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/查询数据/upreport(上传报告正式转测试环境).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="162" column="43" selection-start-line="162" selection-start-column="43" selection-end-line="162" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#28#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/multiprocessing/managers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/asyncio/events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="278" column="8" selection-start-line="278" selection-start-column="8" selection-end-line="278" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pad_app/进程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="81" column="50" selection-start-line="81" selection-start-column="50" selection-end-line="81" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/asyncio/queues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/asyncio/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5073">
+          <caret line="278" column="4" selection-start-line="278" selection-start-column="4" selection-end-line="278" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/concurrent/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/concurrent/futures/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/concurrent/futures/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1978">
+          <caret line="281" column="6" selection-start-line="281" selection-start-column="6" selection-end-line="281" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-1235271266/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-343">
+          <caret line="177" column="4" selection-start-line="177" selection-start-column="4" selection-end-line="177" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="827" column="8" selection-start-line="827" selection-start-column="8" selection-end-line="827" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/concurrent/futures/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="425" column="75" selection-start-line="425" selection-start-column="75" selection-end-line="425" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="147" column="8" selection-start-line="147" selection-start-column="8" selection-end-line="147" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/查询数据/select_data_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/asyncio/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ceshi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/aiohttp/client_reqrep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="184" column="8" selection-start-line="184" selection-start-column="8" selection-end-line="184" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/aiohttp/hdrs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/asyncio/base_events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="465" column="0" selection-start-line="465" selection-start-column="0" selection-end-line="465" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pad_app/主要接口/interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/multiprocessing/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aiohttp111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pad_app/上课/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="107" column="86" selection-start-line="27" selection-start-column="5" selection-end-line="107" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pad_app/updata1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3572">
+          <caret line="198" column="0" selection-start-line="30" selection-start-column="7" selection-end-line="198" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/asyncio/coroutines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3420">
+          <caret line="191" column="4" selection-start-line="191" selection-start-column="4" selection-end-line="191" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="293" column="8" selection-start-line="293" selection-start-column="8" selection-end-line="293" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/aiohttp/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/aiohttp/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="106" column="40" selection-start-line="106" selection-start-column="40" selection-end-line="106" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="1290" column="8" selection-start-line="1290" selection-start-column="8" selection-end-line="1290" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pad_app/上课/login_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mmm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/logging/handlers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="200" column="36" selection-start-line="200" selection-start-column="36" selection-end-line="200" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_mokuai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="20" column="111" selection-start-line="20" selection-start-column="111" selection-end-line="20" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智运/kk_buz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pad_app/上课/add_user_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pad_app/上课/function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13167">
+          <caret line="704" column="33" selection-start-line="704" selection-start-column="33" selection-end-line="704" selection-end-column="33" />
+          <folding>
+            <marker date="1534925612882" expanded="true" signature="1015:1059" placeholder="SELECT cours... classes" />
+            <marker date="1534925612882" expanded="true" signature="1188:1201" placeholder="SELECT * FRO... user" />
+            <marker date="1534925612882" expanded="true" signature="1318:1361" placeholder="SELECT subje... classes" />
+            <marker date="1534925612882" expanded="true" signature="1498:1549" placeholder="SELECT tel,p... coach" />
+            <marker date="1534925612882" expanded="true" signature="1676:1738" placeholder="SELECT count... user_classes_checkin" />
+            <marker date="1534925612882" expanded="true" signature="1928:1965" placeholder="SELECT gym_i... coach" />
+            <marker date="1534925612882" expanded="true" signature="2197:2250" placeholder="select id fr... gym" />
+            <marker date="1534925612882" expanded="true" signature="2392:2432" placeholder="select uuid user" />
+            <marker date="1534925612882" expanded="true" signature="2639:2677" placeholder="SELECT id FR... subject" />
+            <marker date="1534925612882" expanded="true" signature="2912:2941" placeholder="select max(i... classes" />
+            <marker date="1534925612882" expanded="true" signature="4132:4165" placeholder="select id fr... coach" />
+            <marker date="1534925612882" expanded="true" signature="4340:4397" placeholder="select type user_personal_subject" />
+            <marker date="1534925612882" expanded="true" signature="4589:4654" placeholder="select circl... user_personal_subject" />
+            <marker date="1534925612882" expanded="true" signature="4838:4875" placeholder="select gym_i... coach" />
+            <marker date="1534925612882" expanded="true" signature="5054:5082" placeholder="select max(i... orders" />
+            <marker date="1534925612882" expanded="true" signature="5220:5254" placeholder="select max(i... user_subject" />
+            <marker date="1534925612882" expanded="true" signature="5908:5997" placeholder="select uuid user_subject" />
+            <marker date="1534925612882" expanded="true" signature="9471:9899" placeholder="insert into orders... " />
+            <marker date="1534925612882" expanded="true" signature="10239:10629" placeholder="insert into user_subject... " />
+            <marker date="1534925612882" expanded="true" signature="11748:12176" placeholder="insert into orders... " />
+            <marker date="1534925612882" expanded="true" signature="12472:12623" placeholder="insert into `user_coins`... " />
+            <marker date="1534925612882" expanded="true" signature="12754:12900" placeholder="insert into `user_coins_consume_log`... " />
+            <marker date="1534925612882" expanded="true" signature="13653:13884" placeholder="INSERT INTO classes... " />
+            <marker date="1534925612882" expanded="true" signature="14415:14449" placeholder="select max(i... user_classes" />
+            <marker date="1534925612882" expanded="true" signature="14663:14767" placeholder="update user_... " />
+            <marker date="1534925612882" expanded="true" signature="15182:15397" placeholder="insert into user_classes... " />
+            <marker date="1534925612882" expanded="true" signature="15738:15780" placeholder="select max(i... user_classes_checkin" />
+            <marker date="1534925612882" expanded="true" signature="16000:16121" placeholder="insert into user_classes_checkin... " />
+            <marker date="1534925612882" expanded="true" signature="16862:17093" placeholder="INSERT INTO classes... " />
+            <marker date="1534925612882" expanded="true" signature="17532:17566" placeholder="select max(i... user_classes" />
+            <marker date="1534925612882" expanded="true" signature="18757:18805" placeholder="select use_t... user_subject" />
+            <marker date="1534925612882" expanded="true" signature="18955:19170" placeholder="insert into user_classes... " />
+            <marker date="1534925612882" expanded="true" signature="19435:19518" placeholder="update user_... " />
+            <marker date="1534925612882" expanded="true" signature="19803:19845" placeholder="select max(i... user_classes_checkin" />
+            <marker date="1534925612882" expanded="true" signature="20102:20223" placeholder="insert into user_classes_checkin... " />
+            <marker date="1534925612882" expanded="true" signature="21085:21316" placeholder="INSERT INTO classes... " />
+            <marker date="1534925612882" expanded="true" signature="21745:21976" placeholder="INSERT INTO classes... " />
+            <marker date="1534925612882" expanded="true" signature="22785:22819" placeholder="select max(i... user_classes" />
+            <marker date="1534925612882" expanded="true" signature="24010:24058" placeholder="select use_t... user_subject" />
+            <marker date="1534925612882" expanded="true" signature="24208:24423" placeholder="insert into user_classes... " />
+            <marker date="1534925612882" expanded="true" signature="24688:24771" placeholder="update user_... " />
+            <marker date="1534925612882" expanded="true" signature="25034:25076" placeholder="select max(i... user_classes_checkin" />
+            <marker date="1534925612882" expanded="true" signature="25333:25454" placeholder="insert into user_classes_checkin... " />
+            <marker date="1534925612882" expanded="true" signature="26459:26690" placeholder="INSERT INTO classes" />
+            <marker date="1534925612882" expanded="true" signature="28610:28819" placeholder="insert into user_classes" />
+            <marker date="1534925612882" expanded="true" signature="29935:30051" placeholder="insert into user_classes_checkin" />
+            <marker date="1534925612882" expanded="true" signature="30381:30476" placeholder="select id fr... classes" />
+            <marker date="1534925612882" expanded="true" signature="30961:31088" placeholder="select id fr... classes" />
+            <marker date="1534925612882" expanded="true" signature="31299:31412" placeholder="select class... user_classes" />
+            <marker date="1534925612882" expanded="true" signature="31596:31627" placeholder="delete from " />
+            <marker date="1534925612882" expanded="true" signature="31677:31721" placeholder="delete from " />
+            <marker date="1534925612882" expanded="true" signature="31771:31823" placeholder="delete from " />
+            <marker date="1534925612882" expanded="true" signature="31871:31916" placeholder="delete from " />
+            <marker date="1534925612882" expanded="true" signature="31961:32004" placeholder="delete from " />
+            <marker date="1534925612882" expanded="true" signature="32052:32100" placeholder="delete from " />
+            <marker date="1534925612882" expanded="true" signature="32146:32196" placeholder="delete from " />
+            <marker date="1534925612882" expanded="true" signature="32295:32317" placeholder="select id fr... classes" />
+            <marker date="1534925612882" expanded="true" signature="33383:33422" placeholder="select max(i... user_daily_weight" />
+            <marker date="1534925612882" expanded="true" signature="33853:34168" placeholder="insert into user_daily_weight... " />
+            <marker date="1534925612882" expanded="true" signature="34580:34894" placeholder="insert into user_daily_weight... " />
+            <marker date="1534925612882" expanded="true" signature="35207:35256" placeholder="delete from " />
+            <marker date="1534925612882" expanded="true" signature="35750:35868" placeholder="select max(i... user_daily_weight" />
+            <marker date="1534925612882" expanded="true" signature="36068:36119" placeholder="select user_... user_daily_weight" />
+            <marker date="1534925612882" expanded="true" signature="36720:36746" placeholder="select user_... user" />
+            <marker date="1534925612882" expanded="true" signature="36873:36897" placeholder="select max(i... user" />
+            <marker date="1534925612882" expanded="true" signature="37189:37220" placeholder="select max(u... user" />
+            <marker date="1534925612882" expanded="true" signature="37776:37808" placeholder="select max(i... user_account" />
+            <marker date="1534925612882" expanded="true" signature="37992:38013" placeholder="select name user" />
+            <marker date="1534925612882" expanded="true" signature="38133:38161" placeholder="select uid f... user_account" />
+            <marker date="1534925612882" expanded="true" signature="39259:40023" placeholder="insert into user... " />
+            <marker date="1534925612882" expanded="true" signature="41969:42127" placeholder="insert into `user_coupon`... " />
+            <marker date="1534925612882" expanded="true" signature="42633:42890" placeholder="insert into `coupon`... " />
+            <marker date="1534925612882" expanded="true" signature="44631:44984" placeholder="insert into user_subject... " />
+            <marker date="1534925612882" expanded="true" signature="46508:47274" placeholder="insert into user... " />
+            <marker date="1534925612882" expanded="true" signature="48250:48415" placeholder="insert into `user_share_recommend`... " />
+            <marker date="1534925612882" expanded="true" signature="48927:48988" placeholder="delete from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pad_app/上课/deleteclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="76" selection-start-line="29" selection-start-column="76" selection-end-line="29" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sss2222.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6555">
+          <caret line="373" column="36" selection-start-line="373" selection-start-column="36" selection-end-line="373" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/查询数据/select_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="42" column="66" selection-start-line="42" selection-start-column="66" selection-end-line="42" selection-end-column="66" />
+          <folding>
+            <marker date="1534914407865" expanded="true" signature="1288:1347" placeholder="select data_... user_class_data" />
+            <marker date="1534914407865" expanded="true" signature="1777:1812" placeholder="select name user" />
+            <marker date="1534914407865" expanded="true" signature="1989:2042" placeholder="select id fr... subject_show" />
+            <marker date="1534914407865" expanded="true" signature="2222:2319" placeholder="select uuid user_subject" />
+            <marker date="1534914407865" expanded="true" signature="2472:2508" placeholder="select id fr... gym" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2223">
+          <caret line="120" column="31" selection-start-line="120" selection-start-column="31" selection-end-line="120" selection-end-column="31" />
+          <folding>
+            <element signature="e#1910#1921#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sss11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="87" column="17" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2018-08-22text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67241">
+          <caret line="3539" column="84" selection-start-line="3528" selection-start-column="54" selection-end-line="3539" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sssss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5814">
+          <caret line="307" column="81" selection-start-line="307" selection-start-column="81" selection-end-line="307" selection-end-column="81" />
+          <folding>
+            <element signature="e#1298#1312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/性能/shishou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhende.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="61" column="31" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

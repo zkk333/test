@@ -1,0 +1,11 @@
+2018-08-02 17:57:45,527-log_mokuai.py-root-INFO-握手神
+2018-08-02 17:57:45,554-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625184351963136, 'height': 0, 'loginNo': '15600905550', 'name': '测试教练_5550', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '1a1f3ad0-f1b1-4c22-a1e8-cac521bc80a1', 'weight': 0, 'workYears': 0}
+2018-08-02 17:57:45,575-log_mokuai.py-root-INFO-握手神
+2018-08-02 17:57:45,603-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625184351963136, 'height': 0, 'loginNo': '15600905550', 'name': '测试教练_5550', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '1a1f3ad0-f1b1-4c22-a1e8-cac521bc80a1', 'weight': 0, 'workYears': 0}
+2018-08-02 17:58:24,109-log_mokuai.py-root-INFO-握手神
+2018-08-02 17:58:24,126-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625184351963136, 'height': 0, 'loginNo': '15600905550', 'name': '测试教练_5550', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '1a1f3ad0-f1b1-4c22-a1e8-cac521bc80a1', 'weight': 0, 'workYears': 0}
+2018-08-02 17:58:24,139-log_mokuai.py-root-INFO-握手神
+2018-08-02 17:58:24,156-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625184351963136, 'height': 0, 'loginNo': '15600905550', 'name': '测试教练_5550', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '1a1f3ad0-f1b1-4c22-a1e8-cac521bc80a1', 'weight': 0, 'workYears': 0}
+2018-08-02 18:49:39,407-log_mokuai.py-root-INFO-1062579405.2565918
+2018-08-02 18:49:49,515-log_mokuai.py-root-INFO-1062589514.7409668
+2018-08-02 18:49:54,213-log_mokuai.py-root-INFO-1062594212.25

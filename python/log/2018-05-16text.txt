@@ -1,0 +1,12 @@
+2018-05-16 15:51:10,657-log_mokuai.py-root-INFO-Œ’ ÷…Ò
+2018-05-16 15:51:10,688-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625184351963136, 'height': 0, 'loginNo': '15600905550', 'name': '≤‚ ‘ΩÃ¡∑_5550', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '1a1f3ad0-f1b1-4c22-a1e8-cac521bc80a1', 'weight': 0, 'workYears': 0}
+2018-05-16 15:51:10,729-log_mokuai.py-root-INFO-Œ’ ÷…Ò
+2018-05-16 15:51:10,757-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625184351963136, 'height': 0, 'loginNo': '15600905550', 'name': '≤‚ ‘ΩÃ¡∑_5550', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '1a1f3ad0-f1b1-4c22-a1e8-cac521bc80a1', 'weight': 0, 'workYears': 0}
+2018-05-16 15:55:19,601-log_mokuai.py-root-INFO-Êè°ÊâãÁ•û
+2018-05-16 15:55:19,634-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625184351963136, 'height': 0, 'loginNo': '15600905550', 'name': 'ÊµãËØïÊïôÁªÉ_5550', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '1a1f3ad0-f1b1-4c22-a1e8-cac521bc80a1', 'weight': 0, 'workYears': 0}
+2018-05-16 15:55:19,677-log_mokuai.py-root-INFO-Êè°ÊâãÁ•û
+2018-05-16 15:55:19,705-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625184351963136, 'height': 0, 'loginNo': '15600905550', 'name': 'ÊµãËØïÊïôÁªÉ_5550', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '1a1f3ad0-f1b1-4c22-a1e8-cac521bc80a1', 'weight': 0, 'workYears': 0}
+2018-05-16 15:56:28,450-log_mokuai.py-root-INFO-Êè°ÊâãÁ•û
+2018-05-16 15:56:28,477-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625184351963136, 'height': 0, 'loginNo': '15600905550', 'name': 'ÊµãËØïÊïôÁªÉ_5550', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '1a1f3ad0-f1b1-4c22-a1e8-cac521bc80a1', 'weight': 0, 'workYears': 0}
+2018-05-16 15:56:28,518-log_mokuai.py-root-INFO-Êè°ÊâãÁ•û
+2018-05-16 15:56:28,546-log_mokuai.py-root-INFO-{'age': 0, 'avatar': '', 'coachId': 2625184351963136, 'height': 0, 'loginNo': '15600905550', 'name': 'ÊµãËØïÊïôÁªÉ_5550', 'pulse': 0, 'sex': 1, 'status': 1, 'tel': '15600905550', 'uuid': '1a1f3ad0-f1b1-4c22-a1e8-cac521bc80a1', 'weight': 0, 'workYears': 0}
